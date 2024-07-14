@@ -19,4 +19,6 @@ Check out the Gmail clone [here](https://byctgmailclone.netlify.app/).
 
 ### Video Preview
 
-[![Video Preview of Gmail Clone](https://byctgmailclone.netlify.app/image.png)](https://byctgmailclone.netlify.app/gmail_preview.webm)
+[gmail_preview.webm](https://github.com/user-attachments/assets/1949f8b4-e97f-4ded-ad65-6ba489b1da65)
+
+
